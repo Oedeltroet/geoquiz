@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    background-color: rgb(20, 20, 40);
+}
+
+p, label {
+
+    color: white;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+hr {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    border: 1px solid rgb(30, 30, 60);
+}
+
+#stadtteil {
+
+    font-size: max(20pt, 200%);
+    margin: 20px;
+}
+
+#staedte {
+
+    max-width: 80%;
+    margin-left: 10%;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 120px);
+    grid-row-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+#staedte td {
+
+    text-align: center;
+}
+
+#staedte p {
+
+    opacity: 0.5;
+    margin-bottom: 10px;
+}
+
+#staedte td:hover p {
+
+    opacity: 1.0;
+}
+
+#staedte img {
+
+    max-height: 100px;
+}
+
+#scoreboard {
+
+    margin-top: 20px;
+}
+
+#levels {
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkbox-container input {
+
+    margin-right: 5px;
+}
+
+@keyframes blink {
+
+    0%, 50%, 100% {
+        
+        color: white;
+    }
+
+    25%, 75% {
+        
+        color: rgb(0, 200, 0);
+    }
+}
