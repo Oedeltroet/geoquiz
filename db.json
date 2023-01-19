@@ -106,7 +106,7 @@
             "name" : "Berlin",
             "population" : 3664088,
             "state" : 2,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/e/e6/Country_symbol_of_Berlin_color.svg"
+            "image" : "../img/coa_berlin.svg"
         },
 
         {
@@ -114,7 +114,7 @@
             "name" : "Hamburg",
             "population" : 1852478,
             "state" : 5,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/DEU_Hamburg_COA.svg"
+            "image" : "../img/coa_hamburg.svg"
         },
 
         {
@@ -122,7 +122,7 @@
             "name" : "München",
             "population" : 1488402,
             "state" : 1,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/d/d8/DEU_M%C3%BCnchen_COA.svg"
+            "image" : "../img/coa_muenchen.svg"
         },
 
         {
@@ -130,7 +130,7 @@
             "name" : "Köln",
             "population" : 1083498,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wappen_Koeln.svg"
+            "image" : "../img/coa_koeln.svg"
         },
 
         {
@@ -138,7 +138,7 @@
             "name" : "Frankfurt",
             "population" : 764104,
             "state" : 6,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg/229px-Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg.png"
+            "image" : "../img/coa_frankfurt.svg"
         },
 
         {
@@ -146,7 +146,7 @@
             "name" : "Stuttgart",
             "population" : 630305,
             "state" : 0,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/3/3c/DEU_Stuttgart_COA.svg"
+            "image" : "../img/coa_stuttgart.svg"
         },
 
         {
@@ -154,7 +154,7 @@
             "name" : "Düsseldorf",
             "population" : 620523,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/8/83/DEU_D%C3%BCsseldorf_COA.svg"
+            "image" : "../img/coa_duesseldorf.svg"
         },
 
         {
@@ -162,7 +162,7 @@
             "name" : "Leipzig",
             "population" : 597493,
             "state" : 12,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arms_of_Leipzig.svg"
+            "image" : "../img/coa_leipzig.svg"
         },
 
         {
@@ -170,7 +170,7 @@
             "name" : "Dortmund",
             "population" : 587696,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f9/DEU_Dortmund_COA.svg"
+            "image" : "../img/coa_dortmund.svg"
         },
 
         {
@@ -178,7 +178,7 @@
             "name" : "Essen",
             "population" : 582415,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/8/82/DEU_Essen_COA.svg"
+            "image" : "../img/coa_essen.png"
         },
 
         {
@@ -186,7 +186,7 @@
             "name" : "Bremen",
             "population" : 566573,
             "state" : 4,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/1/14/Bremen_Wappen.svg"
+            "image" : "../img/coa_bremen.svg"
         },
 
         {
@@ -194,7 +194,7 @@
             "name" : "Dresden",
             "population" : 556227,
             "state" : 12,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/7/74/Wappen_Dresden_DDR.svg"
+            "image" : "../img/coa_dresden.svg"
         },
 
         {
@@ -202,7 +202,7 @@
             "name" : "Hannover",
             "population" : 534049,
             "state" : 8,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/4/43/Coat_of_arms_of_Hannover.svg"
+            "image" : "../img/coa_hannover.svg"
         },
 
         {
@@ -210,7 +210,7 @@
             "name" : "Nürnberg",
             "population" : 515543,
             "state" : 1,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f3/DEU_N%C3%BCrnberg_COA_%28klein%29.svg"
+            "image" : "../img/coa_nuernberg.svg"
         },
 
         {
@@ -218,7 +218,7 @@
             "name" : "Duisburg",
             "population" : 495885,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/fa/DEU_Duisburg_COA.svg"
+            "image" : "../img/coa_duisburg.svg"
         },
 
         {
@@ -226,7 +226,7 @@
             "name" : "Bochum",
             "population" : 364454,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/b/b5/Stadtwappen_der_kreisfreien_Stadt_Bochum.svg"
+            "image" : "../img/coa_bochum.svg"
         },
 
         {
@@ -234,7 +234,7 @@
             "name" : "Wuppertal",
             "population" : 355004,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/d/df/DEU_Wuppertal_COA.svg"
+            "image" : "../img/coa_wuppertal.svg"
         },
 
         {
@@ -242,7 +242,7 @@
             "name" : "Bielefeld",
             "population" : 333509,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/e/e6/DEU_Bielefeld_COA.svg"
+            "image" : "../img/coa_bielefeld.svg"
         },
 
         {
@@ -250,7 +250,7 @@
             "name" : "Bonn",
             "population" : 330509,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/6/65/DEU_Bonn_COA.svg"
+            "image" : "../img/coa_bonn.svg"
         },
 
         {
@@ -258,7 +258,7 @@
             "name" : "Münster",
             "population" : 316403,
             "state" : 9,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/a/ab/DEU_Muenster_COA.svg"
+            "image" : "../img/coa_muenster.svg"
         },
 
         {
@@ -266,7 +266,7 @@
             "name" : "Mannheim",
             "population" : 309721,
             "state" : 0,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/fd/Wappen_Mannheim.svg"
+            "image" : "../img/coa_mannheim.svg"
         },
 
         {
@@ -274,7 +274,7 @@
             "name" : "Karlsruhe",
             "population" : 308436,
             "state" : 0,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/0/0a/DEU_Karlsruhe_COA.svg"
+            "image" : "../img/coa_karlsruhe.svg"
         },
 
         {
@@ -282,7 +282,7 @@
             "name" : "Augsburg",
             "population" : 295830,
             "state" : 1,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/5/50/DEU_Augsburg_COA.svg"
+            "image" : "../img/coa_augsburg.svg"
         },
 
         {
@@ -290,7 +290,7 @@
             "name" : "Wiesbaden",
             "population" : 278609,
             "state" : 6,
-            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f9/Wappen_Wiesbaden.svg"
+            "image" : "../img/coa_wiesbaden.svg"
         }
     ],
 
